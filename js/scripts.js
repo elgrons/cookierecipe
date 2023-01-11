@@ -1,6 +1,12 @@
 window.onload = function() {
+
   let body = document.body;
-  // button onclick function
-  //body.style.backgroundColor = "black";
-  //body.style.color = "white";
+  let button = document.body.button;
+
+  button.onclick = function() {
+    body.style.backgroundColor = "black"; // what we want the button to do
+    body.style.color = "white";
+  };
+  
+
 };
