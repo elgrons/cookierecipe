@@ -1,6 +1,6 @@
 # Cookie Recipe
 
-#### By _**Eliot Gronstal**_
+#### By _**Eliot Gronstal**_ & _**Ashe Urban**_
 
 #### A test website that hosts the recipe for delicious chocolate chip cookies built during my first week of Intro to Programming at Epicous coding school.
 
@@ -25,4 +25,4 @@ The website has a photo, ingredient list, and directions to bake chocolate chip 
 
 MIT
 
-Copyright (c) 2023 Eliot Gronstal
+Copyright (c) 2023 Eliot Gronstal & Ashe Urban
