@@ -1,0 +1,40 @@
+h1 {
+  font-size: 28;
+  text-align: center;
+  color: purple;
+}
+
+h2 {
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+  margin: auto;
+  height: auto;
+  width: 90%;
+  display: block;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.column {
+  width: 400px;
+  float: left;
+  padding: 50px;
+  margin: 10px;
+  font-size: 16px;
+  background-color: rgb(196, 196, 235);
+  box-sizing: border-box;
+}
+
+.important h1 {
+  font-size: 22;
+  font-style: italic;
+  color: plum;
+  text-decoration: underline;
+}
