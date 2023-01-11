@@ -7,6 +7,5 @@ window.onload = function() {
     body.style.backgroundColor = "black"; 
     body.style.color = "white";
   };
-  
 
 };
