@@ -1,12 +1,17 @@
 window.onload = function() {
 
   let body = document.body;
-  let button = document.body.button;
+  let darkButton = document.querySelector(".dark");
+  let lightButton = document.querySelector(".light");
 
-  button.onclick = function() {
-    body.style.backgroundColor = "black"; // what we want the button to do
+  darkButton.onclick = function() {
+    body.style.backgroundColor = "black"; 
     body.style.color = "white";
   };
-  
+
+  lightButton.onclick = function() {
+    body.style.backgroundColor = "white";
+    body.style.color = "black";
+  };
 
 };

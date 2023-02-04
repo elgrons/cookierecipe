@@ -14,8 +14,7 @@ The website has a photo, ingredient list, and directions to bake chocolate chip 
 
 ## Setup/Installation Requirements
 
-* Copy the file from the repository.
-* Open the file to view.
+Clone or download to your local repository. No special setup or configuration.
 
 ## Known Bugs
 
